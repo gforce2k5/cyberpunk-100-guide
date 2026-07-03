@@ -31,4 +31,3 @@ base: '/YOUR_REPO_NAME/'
 ## Progress storage
 
 Checklist progress is stored locally in the browser using `localStorage`, so it works well on your phone without an account or backend.
-
